@@ -2,6 +2,10 @@
 
 Um Assistente Virtual especialmente projetado para websites que desejam incorporar um plugin de acessibilidade, destinado a pessoas com deficiência visual. Ao destacar qualquer trecho de texto ou até mesmo a página inteira, esse plugin possibilita que o conteúdo seja lido em voz alta para o usuário.
 
+## 🚀 Diferencial
+
+O plugin possui atalhos no teclado, então ao iniciar o site, o plugin ira falar com o usuario, se ele deseja iniciar a leitura imediatamente usando um atalho do teclado ctrl + shfit + F.
+
 ## 🚀 Começando
 
 Faça o download do projeto e chame ele no seu HTML, o icone pode ser customizavel:
