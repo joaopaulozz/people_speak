@@ -51,14 +51,3 @@ document.addEventListener('keydown', function (event) {
         lerTextoSelecionado()
     }
 });
-
-document.addEventListener('DOMContentLoaded', () => {
-  const audioPlayer = document.getElementById('audioPlayer');
-  
-  // Força a reprodução do áudio automaticamente
-  audioPlayer.play().then(() => {
-    // Áudio reproduzido com sucesso
-  }).catch(error => {
-    console.error('Erro ao reproduzir áudio:', error);
-  });
-});
